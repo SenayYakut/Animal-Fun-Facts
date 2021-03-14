@@ -1,6 +1,8 @@
 # Animal-Fun-Facts
 
-Create a portfolio to show off projects you worked on with Django.
+Animal-Fun-Facts is  a React project.
+
+In this project, we’ll build a program that allows users to click an animal on the screen in order to have a fun fact pop up.
 
 ## Installation
 
