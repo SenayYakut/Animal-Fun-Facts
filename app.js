@@ -3,7 +3,7 @@ import React from 'react';
 import ReactDOM from 'react-dom';
 
 const title = "";
-const animalFacts = (<h1> title </h1>);
-title === '' ? '' : title;
+const animalFacts = ( < h1 > { title } < /h1>);
+        title === '' ? animalFacts[click] : title;
 
-RenderDOM.render(document.getElementById("root"));
+        RenderDOM.render(animalFacts, document.getElementById("root"));
